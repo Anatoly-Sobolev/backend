@@ -11,8 +11,7 @@
 - `sources/capture-example-com.pcapng` — исходный дамп сетевого трафика;
 - `screenshots/01_tcp_handshake.png` — трёхэтапное установление соединения;
 - `screenshots/02_tcp_close.png` — четырёхэтапное завершение соединения;
-- `screenshots/03_chrome_waterfall.png` — этапы запроса в Chrome DevTools;
-- `build_report.py` — воспроизводимая сборка изображений и отчёта.
+- `screenshots/03_chrome_waterfall.png` — этапы запроса в Chrome DevTools.
 
 ## Команда запроса
 
